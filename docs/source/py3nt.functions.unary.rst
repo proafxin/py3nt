@@ -12,6 +12,14 @@ py3nt.functions.unary.divisor\_functions module
    :undoc-members:
    :show-inheritance:
 
+py3nt.functions.unary.totient module
+------------------------------------
+
+.. automodule:: py3nt.functions.unary.totient
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 Module contents
 ---------------
 
